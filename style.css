@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    color:dimgray;
+}
+.headings {
+    color:white;
+    width: 80%;
+    font-size: xx-large;
+    font-family: cursive;
+}
+.name_of_objects {
+    color: navy;
+    font-family: sans-serif;
+}
+#camera {
+    width: 350px;
+    height: 300px;
+    border: navy;
+    border-width: 3px;
+    border-style: double;
+}
+.btn {
+    color:white;
+}
